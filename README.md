@@ -1,4 +1,4 @@
-﻿# Bubble Sort
+﻿# Chat Room
 A basic C# chat room console application. Extremely rough, but functional.
 
 ## Download
