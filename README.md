@@ -3,7 +3,6 @@ A basic C# chat room console application. Extremely rough, but functional.
 
 ## Download
 Download from the GitHub repository releases [here](https://github.com/LimitedLack/ChatRoom/releases/tag/Releases).
-The .NET Core 3.1 Runtime is required to run as a standalone, as no installer is included. A link to download it can be found [here](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.20-windows-x64-installer).
 
 ## Info
 - Server, client, and reader is included in the same binary.
